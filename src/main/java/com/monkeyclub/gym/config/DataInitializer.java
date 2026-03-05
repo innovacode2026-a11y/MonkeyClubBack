@@ -1,8 +1,8 @@
 package com.monkeyclub.gym.config;
 
-import com.monkeyclub.gym.user.User;
-import com.monkeyclub.gym.user.UserRepository;
-import com.monkeyclub.gym.user.UserRole;
+import com.monkeyclub.gym.features.user.User;
+import com.monkeyclub.gym.features.user.UserRepository;
+import com.monkeyclub.gym.features.user.UserRole;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;

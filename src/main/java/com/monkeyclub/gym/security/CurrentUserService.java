@@ -1,7 +1,7 @@
 package com.monkeyclub.gym.security;
 
 import com.monkeyclub.gym.common.BusinessException;
-import com.monkeyclub.gym.user.User;
+import com.monkeyclub.gym.features.user.User;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

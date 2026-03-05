@@ -1,6 +1,6 @@
 package com.monkeyclub.gym.security;
 
-import com.monkeyclub.gym.user.User;
+import com.monkeyclub.gym.features.user.User;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

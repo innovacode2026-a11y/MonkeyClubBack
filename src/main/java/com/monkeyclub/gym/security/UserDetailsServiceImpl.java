@@ -1,6 +1,6 @@
 package com.monkeyclub.gym.security;
 
-import com.monkeyclub.gym.user.UserRepository;
+import com.monkeyclub.gym.features.user.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

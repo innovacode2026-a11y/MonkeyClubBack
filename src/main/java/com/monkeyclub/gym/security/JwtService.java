@@ -1,6 +1,6 @@
 package com.monkeyclub.gym.security;
 
-import com.monkeyclub.gym.user.User;
+import com.monkeyclub.gym.features.user.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
